@@ -175,9 +175,9 @@ MIT License - 查看 [LICENSE](LICENSE) 文件了解详情
 
 ## 📞 联系方式
 
-- 项目地址: [GitHub Repository](https://github.com/your-username/mapweb)
-- 问题反馈: [Issues](https://github.com/your-username/mapweb/issues)
-- 邮箱: your-email@example.com
+- 项目地址: [GitHub Repository](https://github.com/chrsztz/mapweb)
+- 问题反馈: [Issues](https://github.com/chrsztz/mapweb/issues)
+- Chris ztzchris@outlook.com & Jon :)
 
 ---
 

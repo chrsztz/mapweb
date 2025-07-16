@@ -171,8 +171,7 @@ const Sidebar: React.FC = () => {
               </ul>
               <div className="pt-4 border-t border-gray-200">
                 <h4 className="font-medium text-gray-900 mb-2">联系我们</h4>
-                <p>邮箱: info@trailexplorer.com</p>
-                <p>技术支持: support@trailexplorer.com</p>
+                <p>邮箱: ztzchris@outlook.com</p>
               </div>
             </div>
           </div>
